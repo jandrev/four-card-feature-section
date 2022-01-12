@@ -67,6 +67,7 @@ h1 + p {
 }
 .card h2 {
   margin: 0 0 20px 0;
+  background-color: inherit;
 }
 .card p {
   margin: 0 0 45px 0;
@@ -79,6 +80,7 @@ h1 + p {
 .card-container {
   display: flex;
   flex-direction: column;
+  margin-top: 2rem;
 }
 @media (max-width: 1299px) {
 } 
